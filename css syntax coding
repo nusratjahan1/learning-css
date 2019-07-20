@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  color: blue;
+  /* This is a single-line comment */
+  text-align: center;
+} 
+
+/* This is
+a multi-line
+comment */
+</style>
+</head>
+<body>
+
+<p>WEBSITE DEVELOPER</p>
+<p>Learning to develop website using css</p>
+<p>for our project we need to learn css carefully.</p>
+
+</body>
+</html>
